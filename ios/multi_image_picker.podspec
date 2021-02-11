@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
-  s.homepage         = 'https://github.com/Sh1d0w/multi_image_picker'
+  s.homepage         = 'https://github.com/Letalus/multi_image_picker'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Radoslav Vitanov' => 'radoslav.vitanov@icloud.com' }
   s.source           = { :path => '.' }
