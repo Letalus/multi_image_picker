@@ -17,7 +17,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: https://github.com/Letalus/multi_image_picker.git
+        package: com.vitanov.multiimagepicker
         pluginClass: MultiImagePickerPlugin
       ios:
         pluginClass: MultiImagePickerPlugin
